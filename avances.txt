@@ -1,0 +1,10 @@
+Avances:
+Se logró extraer los datos de los productos con los atributos:
+id
+name
+permalink
+images
+Donde images es una lista de objetos con los datos de cada imagen en el archivo original.
+Se lograron dos versiones, una con una lista de links de las imagenes en el archivo productos_final.json y,
+otra version manteniendo la estructura de que cada imagen es un objeton, donde se conserva el id de la imagen
+y su link respectivamente.
